@@ -1,0 +1,11 @@
+Technique,MAE,MSE,RMSE,RRMSE,R,R2,MAPE,SMAPE
+Linear_Regression,,,,,,,,
+SVM_Linear,,,,,,,,
+SVM_Quadratic,,,,,,,,
+SVM_Cubic,,,,,,,,
+GPR_Exponential,,,,,,,,
+Bagging,,,,,,,,
+Random Forest,,,,,,,,
+AdaBoost,,,,,,,,
+Gradiant_Boosting,,,,,,,,
+XG_Boost,,,,,,,,
