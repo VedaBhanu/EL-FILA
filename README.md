@@ -1,5 +1,5 @@
 # EL-FILA
-Ensemble Learning based Fault-Model for Interconnection Links in ASNoCs. Please do not copy the code, it is currently in review with the TCAS-1. Once the manuscript gets accepted, you may browse through it. Thanks for your kind coperation.  
+Ensemble Learning based Fault-Model for Interconnection Links in ASNoCs. Please do not copy the code, it is currently in review. Once the manuscript gets accepted, you may browse through it. Thanks for your kind coperation.  
 
 # **Dataset Information**
 
